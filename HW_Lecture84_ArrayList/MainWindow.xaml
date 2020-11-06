@@ -1,0 +1,18 @@
+﻿<Window x:Class="HW_Lecture84_ArrayList.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HW_Lecture84_ArrayList"
+        mc:Ignorable="d"
+        Title="Cust Info" Height="382" Width="469">
+    <Grid x:Name="gr_Page" Margin="0,0,2,-1">
+        <Button x:Name="bt_Add" Content="Add" HorizontalAlignment="Left" Margin="138,84,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click" Height="30"/>
+        <Button x:Name="bt_Remove" Content="Remove" HorizontalAlignment="Left" Margin="263,84,0,0" VerticalAlignment="Top" Width="75" Height="30" Click="bt_Remove_Click"/>
+        <Button x:Name="bt_ShowAll" Content="Show All" HorizontalAlignment="Left" Margin="210,300,0,0" VerticalAlignment="Top" Width="75" Height="30" Click="bt_ShowAll_Click"/>
+        <TextBlock x:Name="tb_Name" HorizontalAlignment="Left" Margin="100,145,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="320" Background="{DynamicResource {x:Static SystemColors.InactiveBorderBrushKey}}"/>
+        <TextBox x:Name="tb_NameInput" HorizontalAlignment="Left" Height="23" Margin="105,41,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="310" IsEnabled="True"/>
+        <Label Content="Cust. Name" HorizontalAlignment="Left" Margin="25,39,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

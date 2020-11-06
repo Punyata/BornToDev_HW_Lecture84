@@ -1,0 +1,14 @@
+D:\Online\Learning_C_Sharp\HW_Lecture84_ArrayList\HW_Lecture84_ArrayList\bin\Debug\HW_Lecture84_ArrayList.exe.config
+D:\Online\Learning_C_Sharp\HW_Lecture84_ArrayList\HW_Lecture84_ArrayList\bin\Debug\HW_Lecture84_ArrayList.exe
+D:\Online\Learning_C_Sharp\HW_Lecture84_ArrayList\HW_Lecture84_ArrayList\bin\Debug\HW_Lecture84_ArrayList.pdb
+D:\Online\Learning_C_Sharp\HW_Lecture84_ArrayList\HW_Lecture84_ArrayList\obj\Debug\HW_Lecture84_ArrayList.csprojAssemblyReference.cache
+D:\Online\Learning_C_Sharp\HW_Lecture84_ArrayList\HW_Lecture84_ArrayList\obj\Debug\MainWindow.g.cs
+D:\Online\Learning_C_Sharp\HW_Lecture84_ArrayList\HW_Lecture84_ArrayList\obj\Debug\App.g.cs
+D:\Online\Learning_C_Sharp\HW_Lecture84_ArrayList\HW_Lecture84_ArrayList\obj\Debug\HW_Lecture84_ArrayList_MarkupCompile.cache
+D:\Online\Learning_C_Sharp\HW_Lecture84_ArrayList\HW_Lecture84_ArrayList\obj\Debug\HW_Lecture84_ArrayList_MarkupCompile.lref
+D:\Online\Learning_C_Sharp\HW_Lecture84_ArrayList\HW_Lecture84_ArrayList\obj\Debug\MainWindow.baml
+D:\Online\Learning_C_Sharp\HW_Lecture84_ArrayList\HW_Lecture84_ArrayList\obj\Debug\HW_Lecture84_ArrayList.g.resources
+D:\Online\Learning_C_Sharp\HW_Lecture84_ArrayList\HW_Lecture84_ArrayList\obj\Debug\HW_Lecture84_ArrayList.Properties.Resources.resources
+D:\Online\Learning_C_Sharp\HW_Lecture84_ArrayList\HW_Lecture84_ArrayList\obj\Debug\HW_Lecture84_ArrayList.csproj.GenerateResource.cache
+D:\Online\Learning_C_Sharp\HW_Lecture84_ArrayList\HW_Lecture84_ArrayList\obj\Debug\HW_Lecture84_ArrayList.exe
+D:\Online\Learning_C_Sharp\HW_Lecture84_ArrayList\HW_Lecture84_ArrayList\obj\Debug\HW_Lecture84_ArrayList.pdb
